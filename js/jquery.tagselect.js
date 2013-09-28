@@ -144,7 +144,7 @@
         }
 
         el += '<div id="tagselect_' + this.settings.element_index + '_' + this.id + '_addTag">';
-        el += '<input id="' + this.fake_input_id + '" data-default="Add Keyword" placeholder="Add keyword" style="color: rgb(102, 102, 102); width: 100px;">';
+        el += '<input id="' + this.fake_input_id + '" data-default="Add tag" placeholder="Add tag" style="color: rgb(102, 102, 102); width: 100px;">';
         el += '</div>';
 
         el += '</div>';
