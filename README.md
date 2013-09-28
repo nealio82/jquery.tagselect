@@ -12,7 +12,7 @@ Created by [Nealio82] (http://www.nealio.co.uk)
 Add the js and css files then call the plugin as follows:
 
 	$('.tags').tagSelect({
-	    add_tag_submit_url: 'your_url_handling_script'
+	    add_tag_submit_url: 'your_handling_script_url'
 	});
 
 Any options in your select element which have a 'selected="selected"' attribute will be converted to tags on page load.
